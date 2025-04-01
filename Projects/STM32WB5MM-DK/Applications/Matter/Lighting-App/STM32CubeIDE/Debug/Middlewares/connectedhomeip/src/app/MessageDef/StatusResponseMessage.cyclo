@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusResponseMessage.cpp:75:12:CHIP_ERROR chip::app::StatusResponseMessage::Parser::GetStatus(chip::Protocols::InteractionModel::Status&) const	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusResponseMessage.cpp:83:34:chip::app::StatusResponseMessage::Builder& chip::app::StatusResponseMessage::Builder::Status(chip::Protocols::InteractionModel::Status)	4

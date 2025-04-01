@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:35:9:otServerGetNetDataLocal	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:60:9:otServerAddService	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:83:9:otServerRemoveService	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:111:9:otServerGetNextService	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/server.c:135:9:otServerRegister	8	static

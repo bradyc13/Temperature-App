@@ -1,0 +1,7 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:54:1:chip::internal::StaticAllocatorBitmap::StaticAllocatorBitmap(void*, std::atomic<long unsigned int>*, size_t, size_t)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:65:8:void* chip::internal::StaticAllocatorBitmap::Allocate()	9
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:102:8:size_t chip::internal::StaticAllocatorBitmap::IndexOf(void*)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:88:6:void chip::internal::StaticAllocatorBitmap::Deallocate(void*)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:112:6:chip::Loop chip::internal::StaticAllocatorBitmap::ForEachActiveObjectInner(void*, Lambda)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:130:8:size_t chip::internal::StaticAllocatorBitmap::FirstActiveIndex()	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.cpp:150:8:size_t chip::internal::StaticAllocatorBitmap::NextActiveIndexAfter(size_t)	6

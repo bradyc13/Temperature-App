@@ -1,0 +1,12 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:35:9:otUdpAddReceiver	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:58:9:otUdpRemoveReceiver	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:81:9:otUdpSendDatagram	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:105:12:otUdpNewMessage	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:128:9:otUdpOpen	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:153:6:otUdpIsOpen	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:177:6:otUdpIsPortInUse	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:201:9:otUdpClose	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:224:9:otUdpBind	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:249:9:otUdpConnect	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:273:9:otUdpSend	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/udp.c:341:14:otUdpGetSockets	1

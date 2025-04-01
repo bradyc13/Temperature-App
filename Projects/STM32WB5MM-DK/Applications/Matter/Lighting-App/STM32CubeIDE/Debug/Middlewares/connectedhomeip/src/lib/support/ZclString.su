@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/ZclString.cpp:27:12:CHIP_ERROR chip::MakeZclCharString(MutableByteSpan&, const char*)	16	static

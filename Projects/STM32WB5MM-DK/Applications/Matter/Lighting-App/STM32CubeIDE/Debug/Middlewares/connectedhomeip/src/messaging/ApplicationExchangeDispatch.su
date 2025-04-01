@@ -1,0 +1,5 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeMessageDispatch.h:41:18:virtual bool chip::Messaging::ExchangeMessageDispatch::IsEncryptionRequired() const	0	static
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeMessageDispatch.h:50:18:virtual bool chip::Messaging::ExchangeMessageDispatch::IsReliableTransmissionAllowed() const	0	static
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ApplicationExchangeDispatch.h:43:5:chip::Messaging::ApplicationExchangeDispatch::~ApplicationExchangeDispatch()	0	static
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ApplicationExchangeDispatch.h:43:5:virtual chip::Messaging::ApplicationExchangeDispatch::~ApplicationExchangeDispatch()	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ApplicationExchangeDispatch.cpp:29:6:virtual bool chip::Messaging::ApplicationExchangeDispatch::MessagePermitted(chip::Protocols::Id, uint8_t)	8	static

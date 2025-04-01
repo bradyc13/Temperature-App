@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/setup_payload/Base38Encode.cpp:44:12:CHIP_ERROR chip::base38Encode(ByteSpan, MutableCharSpan&)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/setup_payload/Base38Encode.cpp:96:8:size_t chip::base38EncodedLength(size_t)	1

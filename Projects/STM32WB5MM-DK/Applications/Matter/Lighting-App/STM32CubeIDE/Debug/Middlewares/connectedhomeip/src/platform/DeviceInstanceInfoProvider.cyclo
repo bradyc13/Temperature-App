@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/DeviceInstanceInfoProvider.cpp:30:30:chip::DeviceLayer::DeviceInstanceInfoProvider* chip::DeviceLayer::GetDeviceInstanceInfoProvider()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/DeviceInstanceInfoProvider.cpp:36:6:void chip::DeviceLayer::SetDeviceInstanceInfoProvider(DeviceInstanceInfoProvider*)	2

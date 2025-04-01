@@ -1,0 +1,6 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:32:12:otLoggingGetLevel	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:81:6:otDumpCritPlat	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:100:6:otDumpWarnPlat	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:119:6:otDumpNotePlat	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:138:6:otDumpInfoPlat	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/logging.c:157:6:otDumpDebgPlat	1

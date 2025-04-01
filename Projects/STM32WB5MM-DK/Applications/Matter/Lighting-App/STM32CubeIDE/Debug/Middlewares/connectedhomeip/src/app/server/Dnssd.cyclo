@@ -1,0 +1,21 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:45:28:void __tcf_0()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:131:10:virtual void chip::app::DnssdServer::OnEnterActiveMode()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:132:10:virtual void chip::app::DnssdServer::OnTransitionToIdle()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:37:18:chip::app::DnssdServer::~DnssdServer()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:37:18:virtual chip::app::DnssdServer::~DnssdServer()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/Advertiser.h:243:39:chip::Dnssd::CommissionAdvertisingParameters& chip::Dnssd::CommissionAdvertisingParameters::SetPairingInstruction(chip::Optional<const char*>)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:108:10:bool chip::FabricInfo::IsInitialized() const	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:336:27:chip::ConstFabricIterator& chip::ConstFabricIterator::Advance()	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:73:6:bool chip::app::DnssdServer::HaveOperationalCredentials()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:134:12:CHIP_ERROR chip::app::DnssdServer::GetCommissionableInstanceName(char*, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:140:12:CHIP_ERROR chip::app::DnssdServer::SetEphemeralDiscriminator(chip::Optional<short unsigned int>)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:173:6:void chip::app::DnssdServer::GetPrimaryOrFallbackMACAddress(chip::MutableByteSpan)	14
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:189:12:CHIP_ERROR chip::app::DnssdServer::AdvertiseOperational()	10
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:228:12:CHIP_ERROR chip::app::DnssdServer::Advertise(bool, chip::Dnssd::CommissioningMode)	20
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:367:12:CHIP_ERROR chip::app::DnssdServer::AdvertiseCommissioner()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:372:12:CHIP_ERROR chip::app::DnssdServer::AdvertiseCommissionableNode(chip::Dnssd::CommissioningMode)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:397:6:void chip::app::DnssdServer::StopServer()	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:424:6:void chip::app::DnssdServer::StartServer(chip::Dnssd::CommissioningMode)	7
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:387:6:void chip::app::DnssdServer::StartServer()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:517:6:virtual void chip::app::DnssdServer::OnICDModeChange()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.cpp:63:6:void chip::app::{anonymous}::OnPlatformEventWrapper(const chip::DeviceLayer::ChipDeviceEvent*, intptr_t)	4

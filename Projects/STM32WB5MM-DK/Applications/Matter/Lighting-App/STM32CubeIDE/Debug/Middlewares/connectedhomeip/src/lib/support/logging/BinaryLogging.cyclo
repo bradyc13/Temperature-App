@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/BinaryLogging.cpp:25:6:void chip::Logging::LogByteSpan(uint8_t, uint8_t, const chip::ByteSpan&)	6

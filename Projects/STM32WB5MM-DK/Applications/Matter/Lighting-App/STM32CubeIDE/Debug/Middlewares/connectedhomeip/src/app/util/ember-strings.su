@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-strings.cpp:23:9:uint8_t emberAfStringLength(const uint8_t*)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-strings.cpp:30:10:uint16_t emberAfLongStringLength(const uint8_t*)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-strings.cpp:38:6:void emberAfCopyString(uint8_t*, const uint8_t*, size_t)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/ember-strings.cpp:61:6:void emberAfCopyLongString(uint8_t*, const uint8_t*, size_t)	16	static

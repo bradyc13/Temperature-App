@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/protocols/bdx/BdxUri.cpp:41:12:CHIP_ERROR chip::bdx::ParseURI(chip::CharSpan, chip::NodeId&, chip::CharSpan&)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/protocols/bdx/BdxUri.cpp:60:12:CHIP_ERROR chip::bdx::MakeURI(chip::NodeId, chip::CharSpan, chip::MutableCharSpan&)	4

@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/ble/BleError.cpp:46:6:bool chip::Ble::FormatLayerError(char*, uint16_t, CHIP_ERROR)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/ble/BleError.cpp:39:6:void chip::Ble::RegisterLayerErrorFormatter()	0	static

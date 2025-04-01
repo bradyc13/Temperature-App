@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.cpp:24:12:CHIP_ERROR chip::app::AttributeReportBuilder::PrepareAttribute(chip::app::AttributeReportIBs::Builder&, const chip::app::ConcreteDataAttributePath&, chip::DataVersion)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.cpp:52:12:CHIP_ERROR chip::app::AttributeReportBuilder::FinishAttribute(chip::app::AttributeReportIBs::Builder&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.cpp:67:12:CHIP_ERROR chip::app::AttributeValueEncoder::EnsureListStarted()	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.cpp:116:6:void chip::app::AttributeValueEncoder::EnsureListEnded()	6

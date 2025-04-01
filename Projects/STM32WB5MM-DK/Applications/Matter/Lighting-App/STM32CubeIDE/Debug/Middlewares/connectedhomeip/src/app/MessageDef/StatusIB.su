@@ -1,0 +1,6 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:178:6:bool chip::app::{anonymous}::FormatStatusIBError(char*, uint16_t, CHIP_ERROR)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:41:12:CHIP_ERROR chip::app::StatusIB::Parser::DecodeStatusIB(chip::app::StatusIB&) const	80	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:121:21:chip::app::StatusIB::Builder& chip::app::StatusIB::Builder::EncodeStatusIB(const chip::app::StatusIB&)	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:137:12:CHIP_ERROR chip::app::StatusIB::ToChipError() const	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:152:6:void chip::app::StatusIB::InitFromChipError(CHIP_ERROR)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StatusIB.cpp:225:6:static void chip::app::StatusIB::RegisterErrorFormatter()	0	static

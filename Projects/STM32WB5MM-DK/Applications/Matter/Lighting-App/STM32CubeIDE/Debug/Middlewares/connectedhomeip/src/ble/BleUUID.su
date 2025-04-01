@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/ble/BleUUID.cpp:40:6:bool chip::Ble::UUIDsMatch(const ChipBleUUID*, const ChipBleUUID*)	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/ble/BleUUID.cpp:50:6:bool chip::Ble::StringToUUID(const char*, ChipBleUUID&)	32	static

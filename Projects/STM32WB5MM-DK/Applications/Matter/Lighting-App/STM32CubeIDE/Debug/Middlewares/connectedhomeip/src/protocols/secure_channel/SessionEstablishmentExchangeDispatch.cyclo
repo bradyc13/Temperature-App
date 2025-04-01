@@ -1,0 +1,5 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeMessageDispatch.h:50:18:virtual bool chip::Messaging::ExchangeMessageDispatch::IsReliableTransmissionAllowed() const	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/SessionEstablishmentExchangeDispatch.h:41:5:chip::SessionEstablishmentExchangeDispatch::~SessionEstablishmentExchangeDispatch()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/SessionEstablishmentExchangeDispatch.h:45:10:virtual bool chip::SessionEstablishmentExchangeDispatch::IsEncryptionRequired() const	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/SessionEstablishmentExchangeDispatch.h:41:5:virtual chip::SessionEstablishmentExchangeDispatch::~SessionEstablishmentExchangeDispatch()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/SessionEstablishmentExchangeDispatch.cpp:31:6:virtual bool chip::SessionEstablishmentExchangeDispatch::MessagePermitted(chip::Protocols::Id, uint8_t)	5

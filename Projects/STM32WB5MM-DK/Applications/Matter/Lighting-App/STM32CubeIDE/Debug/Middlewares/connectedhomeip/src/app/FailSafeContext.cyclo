@@ -1,0 +1,9 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:55:6:void chip::app::FailSafeContext::SetFailSafeArmed(bool)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:79:6:void chip::app::FailSafeContext::ScheduleFailSafeCleanup(chip::FabricIndex, bool, bool)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:66:6:void chip::app::FailSafeContext::FailSafeTimerExpired()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:37:6:static void chip::app::FailSafeContext::HandleArmFailSafeTimer(chip::System::Layer*, void*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:43:6:static void chip::app::FailSafeContext::HandleMaxCumulativeFailSafeTimer(chip::System::Layer*, void*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:103:12:CHIP_ERROR chip::app::FailSafeContext::ArmFailSafe(chip::FabricIndex, chip::System::Clock::Seconds16)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:132:6:void chip::app::FailSafeContext::DisarmFailSafe()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:49:6:static void chip::app::FailSafeContext::HandleDisarmFailSafe(intptr_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/FailSafeContext.cpp:142:6:void chip::app::FailSafeContext::ForceFailSafeTimerExpiry()	2

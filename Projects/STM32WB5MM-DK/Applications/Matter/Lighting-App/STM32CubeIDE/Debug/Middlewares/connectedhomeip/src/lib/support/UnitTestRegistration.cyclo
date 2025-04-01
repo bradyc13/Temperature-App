@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/UnitTestRegistration.cpp:45:12:CHIP_ERROR chip::RegisterUnitTests(UnitTestTriggerFunction)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/UnitTestRegistration.cpp:66:5:int chip::RunRegisteredUnitTests()	2

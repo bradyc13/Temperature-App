@@ -1,0 +1,9 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:35:7:otSrpClientBuffersGetHostNameString	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:58:15:otSrpClientBuffersGetHostAddressesArray	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:81:33:otSrpClientBuffersAllocateService	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:103:6:otSrpClientBuffersFreeService	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:119:6:otSrpClientBuffersFreeAllServices	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:134:7:otSrpClientBuffersGetServiceEntryServiceNameString	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:158:7:otSrpClientBuffersGetServiceEntryInstanceNameString	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:182:10:otSrpClientBuffersGetServiceEntryTxtBuffer	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/srp_client_buffers.c:206:14:otSrpClientBuffersGetSubTypeLabelsArray	16	static

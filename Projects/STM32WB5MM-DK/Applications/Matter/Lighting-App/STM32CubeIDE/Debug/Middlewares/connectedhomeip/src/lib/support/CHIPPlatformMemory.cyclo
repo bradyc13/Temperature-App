@@ -1,0 +1,6 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:27:12:int CHIPPlatformMemoryInit(void*, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:32:13:void CHIPPlatformMemoryShutdown()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:37:15:void* CHIPPlatformMemoryAlloc(size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:42:15:void* CHIPPlatformMemoryCalloc(size_t, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:47:15:void* CHIPPlatformMemoryRealloc(void*, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPPlatformMemory.cpp:52:13:void CHIPPlatformMemoryFree(void*)	1

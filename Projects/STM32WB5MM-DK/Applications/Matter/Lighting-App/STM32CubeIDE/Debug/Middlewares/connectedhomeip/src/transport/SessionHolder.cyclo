@@ -1,0 +1,17 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:115:18:virtual void chip::SessionHolder::DispatchSessionEvent(chip::SessionDelegate::Event)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/IntrusiveList.h:97:10:bool chip::IntrusiveListNodePrivateBase::IsInList() const	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:176:10:void chip::Transport::Session::AddHolder(chip::SessionHolder&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/ReferenceCountedHandle.h:35:5:chip::ReferenceCountedHandle<Target>::~ReferenceCountedHandle() [with Target = chip::Transport::Session]	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:109:6:void chip::SessionHolder::Release()	5
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:83:18:virtual void chip::SessionHolder::SessionReleased()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:24:1:chip::SessionHolder::~SessionHolder()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:24:1:virtual chip::SessionHolder::~SessionHolder()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:102:6:void chip::SessionHolder::GrabUnchecked(const chip::SessionHandle&)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:77:6:bool chip::SessionHolder::GrabPairingSession(const chip::SessionHandle&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:91:6:bool chip::SessionHolder::Grab(const chip::SessionHandle&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:84:18:virtual void chip::SessionHolder::ShiftToSession(const chip::SessionHandle&)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/core/Optional.h:110:26:constexpr chip::Optional<T>& chip::Optional<T>::operator=(const chip::Optional<T>&) [with T = chip::ReferenceCountedHandle<chip::Transport::Session>]	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:62:17:chip::SessionHolder& chip::SessionHolder::operator=(chip::SessionHolder&&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:49:17:chip::SessionHolder& chip::SessionHolder::operator=(const chip::SessionHolder&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:38:1:chip::SessionHolder::SessionHolder(chip::SessionHolder&&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/transport/SessionHolder.cpp:29:1:chip::SessionHolder::SessionHolder(const chip::SessionHolder&)	2

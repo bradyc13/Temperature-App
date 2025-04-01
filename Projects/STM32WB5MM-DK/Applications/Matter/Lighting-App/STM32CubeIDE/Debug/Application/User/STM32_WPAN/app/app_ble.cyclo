@@ -1,0 +1,16 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:866:13:HciUserEvtProcess	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:912:13:BLE_UserEvtRx	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:930:13:BLE_StatusNot	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:280:6:APP_BLE_Init_Dyn_1	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:369:28:SVCCTL_App_Notification	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:458:22:APP_BLE_Get_Server_Connection_Status	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:464:6:APP_BLE_Key_Button1_Action	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:468:6:APP_BLE_Key_Button2_Action	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:475:6:APP_BLE_Key_Button3_Action	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:479:6:APP_BLE_Stop	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:646:6:APP_BLE_Adv_Request	8
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:781:6:APP_BLE_Adv_Cancel	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:885:6:hci_notify_asynch_evt	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:894:6:hci_cmd_resp_release	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:903:6:hci_cmd_resp_wait	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Projects/STM32WB5MM-DK/Applications/Matter/Lighting-App/STM32_WPAN/App/app_ble.c:956:6:SVCCTL_ResumeUserEventFlow	1

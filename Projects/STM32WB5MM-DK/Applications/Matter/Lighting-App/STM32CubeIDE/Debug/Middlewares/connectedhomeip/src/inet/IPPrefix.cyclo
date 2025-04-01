@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/IPPrefix.cpp:37:6:bool chip::Inet::IPPrefix::IsZero() const	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/IPPrefix.cpp:42:6:bool chip::Inet::IPPrefix::operator==(const chip::Inet::IPPrefix&) const	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/IPPrefix.cpp:47:6:bool chip::Inet::IPPrefix::operator!=(const chip::Inet::IPPrefix&) const	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/IPPrefix.cpp:52:6:bool chip::Inet::IPPrefix::MatchAddress(const chip::Inet::IPAddress&) const	4

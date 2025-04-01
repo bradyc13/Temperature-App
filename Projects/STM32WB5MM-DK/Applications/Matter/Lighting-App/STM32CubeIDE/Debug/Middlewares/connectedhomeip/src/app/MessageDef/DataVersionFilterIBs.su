@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/DataVersionFilterIBs.cpp:66:32:chip::app::DataVersionFilterIB::Builder& chip::app::DataVersionFilterIBs::Builder::CreateDataVersionFilter()	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/DataVersionFilterIBs.cpp:72:12:CHIP_ERROR chip::app::DataVersionFilterIBs::Builder::EndOfDataVersionFilterIBs()	8	static

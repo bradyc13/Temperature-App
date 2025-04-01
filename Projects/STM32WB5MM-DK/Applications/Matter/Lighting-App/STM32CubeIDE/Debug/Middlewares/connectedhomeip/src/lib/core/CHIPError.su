@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/CHIPError.cpp:47:6:bool chip::FormatCHIPError(char*, uint16_t, CHIP_ERROR)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/CHIPError.cpp:28:6:void chip::RegisterCHIPLayerErrorFormatter()	0	static

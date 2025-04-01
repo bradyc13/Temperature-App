@@ -1,0 +1,14 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:225:12:eckey_can_do	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:232:15:eckey_get_bitlen	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:418:13:eckey_debug	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:456:12:eckeydh_can_do	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:487:12:ecdsa_can_do	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:412:13:eckey_free_wrap	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:401:14:eckey_alloc_wrap	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:395:12:eckey_check_pair	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:695:14:ecdsa_alloc_wrap	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:706:13:ecdsa_free_wrap	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:651:12:ecdsa_sign_wrap	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:266:12:eckey_sign_wrap	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:633:12:ecdsa_verify_wrap	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/pk_wrap.c:248:12:eckey_verify_wrap	2

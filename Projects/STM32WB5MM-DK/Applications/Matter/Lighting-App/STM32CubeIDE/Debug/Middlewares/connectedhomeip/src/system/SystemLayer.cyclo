@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemLayer.cpp:24:12:CHIP_ERROR chip::System::Layer::ScheduleLambdaBridge(chip::LambdaBridge&&)	2

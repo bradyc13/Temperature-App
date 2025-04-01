@@ -1,0 +1,15 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:152:13:void chip::Platform::VerifyInitialized(const char*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:75:7:void* operator new(size_t)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:98:6:void operator delete(void*)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:110:7:void* operator new [](size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:133:6:void operator delete [](void*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:173:12:CHIP_ERROR chip::Platform::MemoryAllocatorInit(void*, size_t)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:182:6:void chip::Platform::MemoryAllocatorShutdown()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:189:7:void* chip::Platform::MemoryAlloc(size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:197:7:void* chip::Platform::MemoryAlloc(size_t, bool)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:205:7:void* chip::Platform::MemoryCalloc(size_t, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:237:6:void chip::Platform::MemoryFree(void*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:213:7:void* chip::Platform::MemoryRealloc(void*, size_t)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:243:6:bool chip::Platform::MemoryInternalCheckPointer(const void*, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:250:17:void memMonitoringTrackAlloc(void*, size_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/stm32/CHIPMem-Platform.cpp:253:17:void memMonitoringTrackFree(void*, size_t)	1

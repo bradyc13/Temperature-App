@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/LockTracker.cpp:30:6:void chip::Platform::Internal::AssertChipStackLockedByCurrentThread(const char*, int)	1

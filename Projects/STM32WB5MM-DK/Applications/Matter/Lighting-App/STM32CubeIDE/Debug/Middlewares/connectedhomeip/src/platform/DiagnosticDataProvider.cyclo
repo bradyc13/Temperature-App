@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/DiagnosticDataProvider.cpp:39:26:chip::DeviceLayer::DiagnosticDataProvider& chip::DeviceLayer::GetDiagnosticDataProvider()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/DiagnosticDataProvider.cpp:49:6:void chip::DeviceLayer::SetDiagnosticDataProvider(DiagnosticDataProvider*)	2

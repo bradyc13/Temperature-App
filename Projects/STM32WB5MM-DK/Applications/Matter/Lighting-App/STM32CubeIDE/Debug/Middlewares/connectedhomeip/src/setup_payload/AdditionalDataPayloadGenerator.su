@@ -1,0 +1,2 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/system/SystemPacketBuffer.h:428:5:chip::System::PacketBufferHandle::~PacketBufferHandle()	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/setup_payload/AdditionalDataPayloadGenerator.cpp:48:1:CHIP_ERROR chip::AdditionalDataPayloadGenerator::generateAdditionalDataPayload(chip::AdditionalDataPayloadGeneratorParams&, chip::System::PacketBufferHandle&, chip::BitFlags<chip::AdditionalDataFields>)	144	static

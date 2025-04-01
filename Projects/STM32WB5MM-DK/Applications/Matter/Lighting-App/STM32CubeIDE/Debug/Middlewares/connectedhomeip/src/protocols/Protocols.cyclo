@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/protocols/Protocols.cpp:42:14:const char* chip::Protocols::GetProtocolName(Id)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/protocols/Protocols.cpp:76:14:const char* chip::Protocols::GetMessageTypeName(Id, uint8_t)	9

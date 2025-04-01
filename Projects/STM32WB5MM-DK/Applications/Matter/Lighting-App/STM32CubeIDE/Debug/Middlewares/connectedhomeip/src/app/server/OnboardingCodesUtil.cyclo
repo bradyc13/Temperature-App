@@ -1,0 +1,10 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:104:12:CHIP_ERROR GetPayloadContents(chip::PayloadContents&, chip::RendezvousInformationFlags)	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:164:12:CHIP_ERROR GetQRCode(chip::MutableCharSpan&, const chip::PayloadContents&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:150:12:CHIP_ERROR GetQRCode(chip::MutableCharSpan&, chip::RendezvousInformationFlags)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:203:12:CHIP_ERROR GetManualPairingCode(chip::MutableCharSpan&, const chip::PayloadContents&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:190:12:CHIP_ERROR GetManualPairingCode(chip::MutableCharSpan&, chip::RendezvousInformationFlags)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:220:12:CHIP_ERROR EncodeQRCodeToUrl(const char*, size_t, char*, size_t)	9
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:176:12:CHIP_ERROR GetQRCodeUrl(char*, size_t, const chip::CharSpan&)	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:77:6:void PrintQrCodeURL(chip::MutableCharSpan)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:52:6:void PrintOnboardingCodes(const chip::PayloadContents&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/OnboardingCodesUtil.cpp:39:6:void PrintOnboardingCodes(chip::RendezvousInformationFlags)	2

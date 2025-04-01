@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/FixedBufferAllocator.cpp:23:11:uint8_t* chip::FixedBufferAllocator::Alloc(size_t)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/FixedBufferAllocator.cpp:36:11:uint8_t* chip::FixedBufferAllocator::Clone(const void*, size_t)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/FixedBufferAllocator.cpp:48:8:char* chip::FixedBufferAllocator::Clone(const char*)	1

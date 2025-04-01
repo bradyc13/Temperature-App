@@ -1,0 +1,3 @@
+../../../../../../../Middlewares/Third_Party/mbedtls/include/mbedtls/ssl_internal.h:1137:35:mbedtls_ssl_own_key	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cli.c:917:12:ssl_validate_ciphersuite	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cli.c:4252:5:mbedtls_ssl_handshake_client_step	136	static

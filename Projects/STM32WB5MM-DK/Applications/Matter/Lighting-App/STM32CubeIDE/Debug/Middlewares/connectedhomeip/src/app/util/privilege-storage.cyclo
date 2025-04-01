@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/privilege-storage.cpp:77:25:chip::Access::Privilege MatterGetAccessPrivilegeForReadAttribute(chip::ClusterId, chip::AttributeId)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/privilege-storage.cpp:92:25:chip::Access::Privilege MatterGetAccessPrivilegeForWriteAttribute(chip::ClusterId, chip::AttributeId)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/privilege-storage.cpp:107:25:chip::Access::Privilege MatterGetAccessPrivilegeForInvokeCommand(chip::ClusterId, chip::CommandId)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/privilege-storage.cpp:122:25:chip::Access::Privilege MatterGetAccessPrivilegeForReadEvent(chip::ClusterId, chip::EventId)	2

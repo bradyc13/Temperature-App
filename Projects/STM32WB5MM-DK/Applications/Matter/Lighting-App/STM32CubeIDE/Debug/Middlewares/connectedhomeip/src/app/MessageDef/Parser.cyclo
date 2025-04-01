@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Parser.cpp:33:1:chip::app::Parser::Parser()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Parser.cpp:35:6:void chip::app::Parser::Init(const chip::TLV::TLVReader&, chip::TLV::TLVType)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Parser.cpp:41:12:CHIP_ERROR chip::app::Parser::GetReaderOnTag(chip::TLV::Tag, chip::TLV::TLVReader*) const	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Parser.cpp:46:6:void chip::app::Parser::GetReader(chip::TLV::TLVReader*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Parser.cpp:51:12:CHIP_ERROR chip::app::Parser::Next()	1

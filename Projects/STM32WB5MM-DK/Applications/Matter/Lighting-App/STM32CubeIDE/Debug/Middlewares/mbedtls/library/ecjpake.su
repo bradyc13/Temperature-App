@@ -1,0 +1,16 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:141:12:ecjpake_write_len_point	32	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:177:12:ecjpake_hash	304	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:297:12:ecjpake_zkp_write	128	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:395:12:ecjpake_kkp_write	80	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:535:12:ecjpake_ecp_add3	48	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:616:12:ecjpake_mul_secret	48	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:358:12:ecjpake_kkp_read	160	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:45:6:mbedtls_ecjpake_init	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:67:6:mbedtls_ecjpake_free	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:90:5:mbedtls_ecjpake_setup	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:125:5:mbedtls_ecjpake_check	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:500:5:mbedtls_ecjpake_read_round_one	64	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:516:5:mbedtls_ecjpake_write_round_one	88	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:558:5:mbedtls_ecjpake_read_round_two	216	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:647:5:mbedtls_ecjpake_write_round_two	176	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ecjpake.c:726:5:mbedtls_ecjpake_derive_secret	152	static

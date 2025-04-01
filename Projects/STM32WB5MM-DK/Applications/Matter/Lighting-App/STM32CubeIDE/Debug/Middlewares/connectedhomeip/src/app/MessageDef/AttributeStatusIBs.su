@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeStatusIBs.cpp:32:30:chip::app::AttributeStatusIB::Builder& chip::app::AttributeStatusIBs::Builder::CreateAttributeStatus()	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeStatusIBs.cpp:41:12:CHIP_ERROR chip::app::AttributeStatusIBs::Builder::EndOfAttributeStatuses()	8	static

@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/EchoHandler.cpp:41:6:void {anonymous}::HandleEchoRequestReceived(chip::Messaging::ExchangeContext*, chip::System::PacketBufferHandle&&)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/EchoHandler.cpp:48:12:CHIP_ERROR InitEchoHandler(chip::Messaging::ExchangeManager*)	2

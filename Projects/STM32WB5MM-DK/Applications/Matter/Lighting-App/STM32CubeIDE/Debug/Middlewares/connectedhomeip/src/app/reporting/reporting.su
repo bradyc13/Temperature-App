@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/reporting/reporting.cpp:47:6:void MatterReportingAttributeChangeCallback(chip::EndpointId, chip::ClusterId, chip::AttributeId)	48	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/reporting/reporting.cpp:62:6:void MatterReportingAttributeChangeCallback(const chip::app::ConcreteAttributePath&)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/reporting/reporting.cpp:67:6:void MatterReportingAttributeChangeCallback(chip::EndpointId)	24	static

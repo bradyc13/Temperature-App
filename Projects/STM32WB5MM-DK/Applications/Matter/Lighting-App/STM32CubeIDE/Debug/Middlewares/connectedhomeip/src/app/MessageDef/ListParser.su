@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/ListParser.cpp:23:12:CHIP_ERROR chip::app::ListParser::Init(const chip::TLV::TLVReader&)	8	static

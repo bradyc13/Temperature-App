@@ -1,0 +1,5 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/DeviceProxy.h:56:24:virtual CHIP_ERROR chip::DeviceProxy::SetPeerId(chip::ByteSpan, chip::ByteSpan)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/ReferenceCountedHandle.h:35:5:chip::ReferenceCountedHandle<Target>::~ReferenceCountedHandle() [with Target = chip::Transport::Session]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/core/Optional.h:53:5:chip::Optional<T>::~Optional() [with T = chip::SessionHandle]	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/DeviceProxy.cpp:48:12:virtual CHIP_ERROR chip::DeviceProxy::GetAttestationChallenge(chip::ByteSpan&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/DeviceProxy.cpp:41:12:virtual CHIP_ERROR chip::DeviceProxy::SendCommands(chip::app::CommandSender*, chip::Optional<std::chrono::duration<long unsigned int, std::ratio<1, 1000> > >)	4

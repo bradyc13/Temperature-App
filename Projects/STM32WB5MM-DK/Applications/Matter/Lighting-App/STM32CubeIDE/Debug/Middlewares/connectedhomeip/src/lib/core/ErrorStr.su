@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/ErrorStr.cpp:48:25:const char* chip::ErrorStr(CHIP_ERROR)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/ErrorStr.cpp:106:17:void chip::RegisterErrorFormatter(ErrorFormatter*)	12	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/ErrorStr.cpp:129:17:void chip::DeregisterErrorFormatter(ErrorFormatter*)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/core/ErrorStr.cpp:157:17:void chip::FormatError(char*, uint16_t, const char*, CHIP_ERROR, const char*)	4	static

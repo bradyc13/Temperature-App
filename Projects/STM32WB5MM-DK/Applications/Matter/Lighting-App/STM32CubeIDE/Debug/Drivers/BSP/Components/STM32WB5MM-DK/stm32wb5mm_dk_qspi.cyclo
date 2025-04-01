@@ -1,0 +1,13 @@
+../../../../../../../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:226:26:MX_QSPI_Init	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:101:9:BSP_QSPI_Init	12
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:322:9:BSP_QSPI_Read	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:354:9:BSP_QSPI_Write	8
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:423:9:BSP_QSPI_EraseBlock	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:466:9:BSP_QSPI_EraseChip	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:506:9:BSP_QSPI_GetStatus	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:542:9:BSP_QSPI_GetInfo	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:566:9:BSP_QSPI_EnableMemoryMappedMode	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:605:9:BSP_QSPI_DisableMemoryMappedMode	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:177:9:BSP_QSPI_DeInit	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Drivers/BSP/STM32WB5MM-DK/stm32wb5mm_dk_qspi.c:656:9:BSP_QSPI_ReadID	2

@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributePathIBs.cpp:75:28:chip::app::AttributePathIB::Builder& chip::app::AttributePathIBs::Builder::CreatePath()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributePathIBs.cpp:85:12:CHIP_ERROR chip::app::AttributePathIBs::Builder::EndOfAttributePathIBs()	1

@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StructParser.cpp:29:12:CHIP_ERROR chip::app::StructParser::CheckSchemaOrdering() const	7
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/StructParser.cpp:21:12:CHIP_ERROR chip::app::StructParser::Init(const chip::TLV::TLVReader&)	3

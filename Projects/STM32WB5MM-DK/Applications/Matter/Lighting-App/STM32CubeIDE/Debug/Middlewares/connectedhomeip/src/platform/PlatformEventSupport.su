@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/PlatformEventSupport.cpp:35:12:static CHIP_ERROR chip::System::PlatformEventing::ScheduleLambdaBridge(chip::System::Layer&, chip::LambdaBridge&&)	56	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/PlatformEventSupport.cpp:44:12:static CHIP_ERROR chip::System::PlatformEventing::StartTimer(chip::System::Layer&, chip::System::Clock::Timeout)	0	static

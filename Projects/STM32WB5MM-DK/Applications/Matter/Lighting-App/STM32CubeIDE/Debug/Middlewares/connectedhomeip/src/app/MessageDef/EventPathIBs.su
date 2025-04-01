@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventPathIBs.cpp:71:24:chip::app::EventPathIB::Builder& chip::app::EventPathIBs::Builder::CreatePath()	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventPathIBs.cpp:80:12:CHIP_ERROR chip::app::EventPathIBs::Builder::EndOfEventPaths()	8	static

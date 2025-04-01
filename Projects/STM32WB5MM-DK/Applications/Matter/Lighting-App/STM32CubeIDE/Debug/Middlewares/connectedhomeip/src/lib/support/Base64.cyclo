@@ -1,0 +1,14 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:34:13:char chip::Base64ValToChar(uint8_t)	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:52:16:uint8_t chip::Base64CharToVal(uint8_t)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:75:13:char chip::Base64URLValToChar(uint8_t)	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:93:16:uint8_t chip::Base64URLCharToVal(uint8_t)	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:114:10:uint16_t chip::Base64Encode(const uint8_t*, uint16_t, char*, Base64ValToCharFunct)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:154:10:uint16_t chip::Base64Encode(const uint8_t*, uint16_t, char*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:159:10:uint16_t chip::Base64URLEncode(const uint8_t*, uint16_t, char*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:164:10:uint32_t chip::Base64Encode32(const uint8_t*, uint32_t, char*, Base64ValToCharFunct)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:195:10:uint32_t chip::Base64Encode32(const uint8_t*, uint32_t, char*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:200:10:uint16_t chip::Base64Decode(const char*, uint16_t, uint8_t*, Base64CharToValFunct)	12
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:248:10:uint16_t chip::Base64Decode(const char*, uint16_t, uint8_t*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:253:10:uint16_t chip::Base64URLDecode(const char*, uint16_t, uint8_t*)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:258:10:uint32_t chip::Base64Decode32(const char*, uint32_t, uint8_t*, Base64CharToValFunct)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/Base64.cpp:290:10:uint32_t chip::Base64Decode32(const char*, uint32_t, uint8_t*)	1

@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/CommissionableDataProvider.cpp:30:30:chip::DeviceLayer::CommissionableDataProvider* chip::DeviceLayer::GetCommissionableDataProvider()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/CommissionableDataProvider.cpp:36:6:void chip::DeviceLayer::SetCommissionableDataProvider(CommissionableDataProvider*)	2

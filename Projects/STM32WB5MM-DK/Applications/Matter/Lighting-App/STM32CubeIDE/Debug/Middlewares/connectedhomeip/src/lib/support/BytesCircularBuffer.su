@@ -1,0 +1,12 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:30:8:size_t chip::BytesCircularBuffer::Advance(size_t, size_t) const	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:77:8:size_t chip::BytesCircularBuffer::StorageUsed() const	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:66:6:void chip::BytesCircularBuffer::Drop(size_t)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:72:8:size_t chip::BytesCircularBuffer::StorageAvailable() const	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:53:6:void chip::BytesCircularBuffer::Write(const uint8_t*, size_t)	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:38:6:void chip::BytesCircularBuffer::Read(uint8_t*, size_t, size_t) const	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:154:6:bool chip::BytesCircularBuffer::IsEmpty() const	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:159:8:size_t chip::BytesCircularBuffer::GetFrontSize() const	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:142:12:CHIP_ERROR chip::BytesCircularBuffer::Pop()	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:87:12:CHIP_ERROR chip::BytesCircularBuffer::Push(const chip::ByteSpan&)	32	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:112:12:CHIP_ERROR chip::BytesCircularBuffer::Push(const chip::ByteSpan&, const chip::ByteSpan&)	32	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/BytesCircularBuffer.cpp:169:12:CHIP_ERROR chip::BytesCircularBuffer::ReadFront(chip::MutableByteSpan&) const	16	static

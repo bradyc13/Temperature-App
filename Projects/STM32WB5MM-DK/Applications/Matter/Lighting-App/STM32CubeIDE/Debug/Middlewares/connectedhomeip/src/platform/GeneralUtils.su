@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:53:6:bool chip::DeviceLayer::FormatDeviceLayerError(char*, uint16_t, CHIP_ERROR)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:34:6:void chip::DeviceLayer::RegisterDeviceLayerErrorFormatter()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/GeneralUtils.cpp:79:14:const char* chip::DeviceLayer::CharacterizeIPv6Address(const chip::Inet::IPAddress&)	8	static

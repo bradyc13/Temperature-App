@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/IPAddressSorter.cpp:44:9:chip::Dnssd::IPAddressSorter::IpScore chip::Dnssd::IPAddressSorter::ScoreIpAddress(const chip::Inet::IPAddress&, chip::Inet::InterfaceId)	7
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/IPAddressSorter.cpp:34:6:void chip::Dnssd::IPAddressSorter::Sort(const chip::Span<chip::Inet::IPAddress>&, chip::Inet::InterfaceId)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/IPAddressSorter.cpp:25:6:void chip::Dnssd::IPAddressSorter::Sort(chip::Inet::IPAddress*, size_t, chip::Inet::InterfaceId)	4

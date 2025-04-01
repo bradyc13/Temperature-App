@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ErrorCategory.cpp:34:6:bool chip::Messaging::IsIgnoredMulticastSendError(CHIP_ERROR)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ErrorCategory.cpp:45:12:CHIP_ERROR chip::Messaging::FilterUDPSendError(CHIP_ERROR, bool)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ErrorCategory.cpp:78:6:bool chip::Messaging::IsSendErrorNonCritical(CHIP_ERROR)	4

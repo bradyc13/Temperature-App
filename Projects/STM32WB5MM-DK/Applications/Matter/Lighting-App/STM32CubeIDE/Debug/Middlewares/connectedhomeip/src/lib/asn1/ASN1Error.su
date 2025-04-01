@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/asn1/ASN1Error.cpp:44:6:bool chip::ASN1::FormatASN1Error(char*, uint16_t, CHIP_ERROR)	16	static

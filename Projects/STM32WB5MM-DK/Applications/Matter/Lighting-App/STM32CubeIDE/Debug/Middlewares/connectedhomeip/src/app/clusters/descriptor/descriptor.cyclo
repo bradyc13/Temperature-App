@@ -1,0 +1,13 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.h:444:24:virtual CHIP_ERROR chip::app::AttributeAccessInterface::Write(const chip::app::ConcreteDataAttributePath&, chip::app::AttributeValueDecoder&)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.h:456:18:virtual void chip::app::AttributeAccessInterface::OnListWriteBegin(const chip::app::ConcreteAttributePath&)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.h:471:18:virtual void chip::app::AttributeAccessInterface::OnListWriteEnd(const chip::app::ConcreteAttributePath&, bool)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:41:7:{anonymous}::DescriptorAttrAccess::~DescriptorAttrAccess()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:41:7:virtual {anonymous}::DescriptorAttrAccess::~DescriptorAttrAccess()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.h:259:16:) [with Ts = {short unsigned int&}]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.h:79:10:void chip::app::Builder::Checkpoint(chip::TLV::TLVWriter&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.h:86:10:void chip::app::Builder::Rollback(const chip::TLV::TLVWriter&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:184:12:CHIP_ERROR {anonymous}::DescriptorAttrAccess::ReadClientServerAttribute(chip::EndpointId, chip::app::AttributeValueEncoder&, bool)	10
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:243:6:void MatterDescriptorPluginServerInitCallback()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/AttributeAccessInterface.h:259:16:) [with Ts = {short unsigned int}]	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:208:12:virtual CHIP_ERROR {anonymous}::DescriptorAttrAccess::Read(const chip::app::ConcreteReadAttributePath&, chip::app::AttributeValueEncoder&)	59
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/clusters/descriptor/descriptor.cpp:246:1:cpp)	1

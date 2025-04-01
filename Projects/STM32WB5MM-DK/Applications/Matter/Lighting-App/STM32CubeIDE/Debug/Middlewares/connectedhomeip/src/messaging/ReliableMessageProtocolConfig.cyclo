@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ReliableMessageProtocolConfig.cpp:77:31:chip::ReliableMessageProtocolConfig chip::GetDefaultMRPConfig()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ReliableMessageProtocolConfig.cpp:87:41:chip::Optional<chip::ReliableMessageProtocolConfig> chip::GetLocalMRPConfig()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/messaging/ReliableMessageProtocolConfig.cpp:128:26:chip::System::Clock::Timestamp chip::GetRetransmissionTimeout(System::Clock::Timestamp, System::Clock::Timestamp, System::Clock::Timestamp, System::Clock::Timestamp)	3

@@ -1,0 +1,135 @@
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/core/CHIPPersistentStorageDelegate.h:107:18:virtual bool chip::PersistentStorageDelegate::SyncDoesKeyExist(const char*)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/CertificateValidityPolicy.h:79:16:virtual CHIP_ERROR chip::Credentials::IgnoreCertificateValidityPeriodPolicy::ApplyCertificateValidityPolicy(const chip::Credentials::ChipCertificateData*, uint8_t, chip::Credentials::CertificateValidityResult)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:369:17:chip::FabricTable::Delegate::~Delegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:376:22:virtual void chip::FabricTable::Delegate::FabricWillBeRemoved(const chip::FabricTable&, chip::FabricIndex)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:381:22:virtual void chip::FabricTable::Delegate::OnFabricRemoved(const chip::FabricTable&, chip::FabricIndex)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:386:22:virtual void chip::FabricTable::Delegate::OnFabricCommitted(const chip::FabricTable&, chip::FabricIndex)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:393:22:virtual void chip::FabricTable::Delegate::OnFabricUpdated(const chip::FabricTable&, chip::FabricIndex)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:147:10:virtual void chip::SessionHolderWithDelegate::DispatchSessionEvent(chip::SessionDelegate::Event)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Base.h:78:18:virtual bool chip::Transport::Base::CanListenMulticast()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Base.h:83:18:virtual void chip::Transport::Base::Disconnect(const chip::Transport::PeerAddress&)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Base.h:88:24:virtual CHIP_ERROR chip::Transport::Base::MulticastGroupJoinLeave(const chip::Transport::PeerAddress&, bool)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Base.h:93:18:virtual void chip::Transport::Base::Close()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ApplicationExchangeDispatch.h:38:44:void __tcf_2()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeDelegate.h:135:18:virtual void chip::Messaging::ExchangeDelegate::OnExchangeClosing(chip::Messaging::ExchangeContext*)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeDelegate.h:175:18:virtual void chip::Messaging::UnsolicitedMessageHandler::OnExchangeCreationFailed(chip::Messaging::ExchangeDelegate*)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/BLE.h:118:10:virtual bool chip::Transport::BLEBase::CanSendToPeer(const chip::Transport::PeerAddress&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/PersistedCounter.h:227:22:T chip::PersistedCounter<T>::GetInitialCounterValue() [with T = long long unsigned int]	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:77:7:{anonymous}::DeviceTypeResolver::~DeviceTypeResolver()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:551:11:chip::Server::IgnoreRootExpirationValidityPolicy::~IgnoreRootExpirationValidityPolicy()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:455:11:chip::Server::ServerFabricDelegate::~ServerFabricDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:409:11:chip::Server::GroupDataProviderListener::~GroupDataProviderListener()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/include/platform/KvsPersistentStorageDelegate.h:35:13:chip::KvsPersistentStorageDelegate::~KvsPersistentStorageDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/CertificateValidityPolicy.h:63:7:chip::Credentials::IgnoreCertificateValidityPeriodPolicy::~IgnoreCertificateValidityPeriodPolicy()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/PersistedCounter.h:64:5:chip::PersistedCounter<T>::~PersistedCounter() [with T = long long unsigned int]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPCounter.h:116:7:T chip::MonotonicallyIncreasingCounter<T>::GetValue() [with T = long long unsigned int]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:96:10:void chip::Transport::Tuple<TransportTypes>::Disconnect(const chip::Transport::PeerAddress&) [with TransportTypes = {chip::Transport::UDP, chip::Transport::BLE<1>}]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:129:17:static chip::Loop chip::internal::LambdaProxy<T, Function>::Call(void*, void*) [with T = chip::OperationalSessionSetup; Function = chip::OperationalSessionSetupPool<4>::FindSessionSetup(chip::ScopedNodeId, bool)::<lambda(auto:6*)>]	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:80:10:virtual bool {anonymous}::DeviceTypeResolver::IsDeviceTypeOnEndpoint(chip::DeviceTypeId, chip::EndpointId)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:369:17:virtual chip::FabricTable::Delegate::~Delegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:455:11:virtual chip::Server::ServerFabricDelegate::~ServerFabricDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/include/platform/KvsPersistentStorageDelegate.h:35:13:virtual chip::KvsPersistentStorageDelegate::~KvsPersistentStorageDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:551:11:virtual chip::Server::IgnoreRootExpirationValidityPolicy::~IgnoreRootExpirationValidityPolicy()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/CertificateValidityPolicy.h:63:7:virtual chip::Credentials::IgnoreCertificateValidityPeriodPolicy::~IgnoreCertificateValidityPeriodPolicy()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:409:11:virtual chip::Server::GroupDataProviderListener::~GroupDataProviderListener()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:77:7:virtual {anonymous}::DeviceTypeResolver::~DeviceTypeResolver()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/PersistedCounter.h:64:5:chip::PersistedCounter<T>::~PersistedCounter() [with T = long long unsigned int]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/address_resolve/AddressResolve.h:74:13:chip::AddressResolve::NodeLookupHandleBase::~NodeLookupHandleBase()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/address_resolve/AddressResolve.h:74:13:virtual chip::AddressResolve::NodeLookupHandleBase::~NodeLookupHandleBase()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/address_resolve/AddressResolve_DefaultImpl.h:127:7:chip::AddressResolve::Impl::NodeLookupHandle::~NodeLookupHandle()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/address_resolve/AddressResolve_DefaultImpl.h:127:7:virtual chip::AddressResolve::Impl::NodeLookupHandle::~NodeLookupHandle()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/include/platform/KvsPersistentStorageDelegate.h:53:16:virtual CHIP_ERROR chip::KvsPersistentStorageDelegate::SyncGetKeyValue(const char*, void*, uint16_t&)	6
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/include/platform/KvsPersistentStorageDelegate.h:81:16:virtual CHIP_ERROR chip::KvsPersistentStorageDelegate::SyncSetKeyValue(const char*, const void*, uint16_t)	4
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:524:32:static constexpr void chip::Server::GenerateShutDownEvent()::<lambda(intptr_t)>::_FUN(intptr_t)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:98:10:void chip::Transport::Tuple<TransportTypes>::Close() [with TransportTypes = {chip::Transport::UDP, chip::Transport::BLE<1>}]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/include/platform/KvsPersistentStorageDelegate.h:100:16:virtual CHIP_ERROR chip::KvsPersistentStorageDelegate::SyncDeleteKeyValue(const char*)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:133:10:virtual void chip::SessionHolderWithDelegate::SessionReleased()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:125:7:chip::SessionHolderWithDelegate::~SessionHolderWithDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:125:7:virtual chip::SessionHolderWithDelegate::~SessionHolderWithDelegate()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASEClientPool.h:39:5:chip::CASEClientPool<N>::~CASEClientPool() [with unsigned int N = 2]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASEClientPool.h:39:5:chip::CASEClientPool<N>::~CASEClientPool() [with unsigned int N = 2]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:47:5:chip::OperationalSessionSetupPool<N>::~OperationalSessionSetupPool() [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:47:5:chip::OperationalSessionSetupPool<N>::~OperationalSessionSetupPool() [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:558:20:virtual CHIP_ERROR chip::Server::IgnoreRootExpirationValidityPolicy::ApplyCertificateValidityPolicy(const chip::Credentials::ChipCertificateData*, uint8_t, chip::Credentials::CertificateValidityResult)	6
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/messaging/ExchangeDelegate.h:137:39:virtual chip::Messaging::ExchangeMessageDispatch& chip::Messaging::ExchangeDelegate::GetMessageDispatch()	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:471:6:void chip::Server::CheckServerReadyEvent()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:327:17:static chip::Loop chip::BitMapObjectPool<T, N>::ReleaseObject(void*, void*) [with T = chip::CASEClient; unsigned int N = 2]	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:529:32:static constexpr void chip::Server::ScheduleFactoryReset()::<lambda(intptr_t)>::_FUN(intptr_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:382:17:static constexpr void chip::Server::Init(const chip::ServerInitParams&)::<lambda(intptr_t)>::_FUN(intptr_t)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:129:17:static chip::Loop chip::internal::LambdaProxy<T, Function>::Call(void*, void*) [with T = chip::OperationalSessionSetup; Function = chip::OperationalSessionSetupPool<4>::ReleaseAllSessionSetupsForFabric(chip::FabricIndex)::<lambda(auto:7*)>]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:83:10:void chip::OperationalSessionSetupPool<N>::ReleaseAllSessionSetup() [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:129:17:static chip::Loop chip::internal::LambdaProxy<T, Function>::Call(void*, void*) [with T = chip::OperationalSessionSetup; Function = chip::OperationalSessionSetupPool<4>::ReleaseAllSessionSetup()::<lambda(auto:8*)>]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:72:10:void chip::OperationalSessionSetupPool<N>::ReleaseAllSessionSetupsForFabric(chip::FabricIndex) [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:57:31:chip::OperationalSessionSetup* chip::OperationalSessionSetupPool<N>::FindSessionSetup(chip::ScopedNodeId, bool) [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:515:14:void chip::Server::ServerFabricDelegate::ClearCASEResumptionStateOnFabricChange(chip::FabricIndex)	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:508:14:virtual void chip::Server::ServerFabricDelegate::OnFabricUpdated(const chip::FabricTable&, chip::FabricIndex)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:45:28:void __tcf_4()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:89:16:CHIP_ERROR chip::Transport::Tuple<TransportTypes>::MulticastGroupJoinLeave(const chip::Transport::PeerAddress&, bool) [with TransportTypes = {chip::Transport::UDP, chip::Transport::BLE<1>}]	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/Session.h:141:10:virtual void chip::SessionHolderWithDelegate::ShiftToSession(const chip::SessionHandle&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASEClientPool.h:43:10:void chip::CASEClientPool<N>::Release(chip::CASEClient*) [with unsigned int N = 2]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/system/SystemPacketBuffer.h:428:5:chip::System::PacketBufferHandle::~PacketBufferHandle()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/BLE.h:174:7:chip::Transport::BLE<1>::~BLE()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/BLE.h:174:7:virtual chip::Transport::BLE<1>::~BLE()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:81:7:chip::Transport::Tuple<chip::Transport::UDP, chip::Transport::BLE<1> >::~Tuple()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/TransportMgr.h:57:7:chip::TransportMgr<chip::Transport::UDP, chip::Transport::BLE<1> >::~TransportMgr()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/TransportMgr.h:57:7:virtual chip::TransportMgr<chip::Transport::UDP, chip::Transport::BLE<1> >::~TransportMgr()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:81:7:virtual chip::Transport::Tuple<chip::Transport::UDP, chip::Transport::BLE<1> >::~Tuple()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/access/AccessControl.h:579:16:CHIP_ERROR chip::Access::AccessControl::DeleteAllEntriesForFabric(chip::FabricIndex)	4
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:108:10:bool chip::FabricInfo::IsInitialized() const	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:336:27:chip::ConstFabricIterator& chip::ConstFabricIterator::Advance()	4
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:562:25:chip::ConstFabricIterator chip::FabricTable::cbegin() const	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/PeerAddress.h:212:24:static chip::Transport::PeerAddress chip::Transport::PeerAddress::Multicast(chip::FabricId, chip::GroupId)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:438:14:virtual void chip::Server::GroupDataProviderListener::OnGroupRemoved(chip::FabricIndex, const chip::Credentials::GroupDataProvider::GroupInfo&)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:422:14:virtual void chip::Server::GroupDataProviderListener::OnGroupAdded(chip::FabricIndex, const chip::Credentials::GroupDataProvider::GroupInfo&)	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/PairingSession.h:46:5:chip::PairingSession::PairingSession()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASEClient.h:43:16:CHIP_ERROR chip::CASEClientInitParams::Validate() const	4
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:49:31:chip::OperationalSessionSetup* chip::OperationalSessionSetupPool<N>::Allocate(const chip::CASEClientInitParams&, chip::CASEClientPoolDelegate*, chip::ScopedNodeId, chip::OperationalSessionReleaseDelegate*) [with unsigned int N = 4]	6
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/UDP.h:141:10:virtual bool chip::Transport::UDP::CanSendToPeer(const chip::Transport::PeerAddress&)	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:84:16:CHIP_ERROR chip::Transport::Tuple<TransportTypes>::SendMessage(const chip::Transport::PeerAddress&, chip::System::PacketBufferHandle&&) [with TransportTypes = {chip::Transport::UDP, chip::Transport::BLE<1>}]	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/transport/raw/Tuple.h:94:10:bool chip::Transport::Tuple<TransportTypes>::CanSendToPeer(const chip::Transport::PeerAddress&) [with TransportTypes = {chip::Transport::UDP, chip::Transport::BLE<1>}]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASESessionManager.h:52:13:chip::CASESessionManager::~CASESessionManager()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASESessionManager.h:52:13:virtual chip::CASESessionManager::~CASESessionManager()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/DefaultStorageKeyAllocator.h:54:48:)	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:468:14:virtual void chip::Server::ServerFabricDelegate::OnFabricRemoved(const chip::FabricTable&, chip::FabricIndex)	8
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/GroupDataProviderImpl.h:36:5:chip::Credentials::GroupDataProviderImpl::~GroupDataProviderImpl()	6
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/GroupDataProviderImpl.h:36:5:virtual chip::Credentials::GroupDataProviderImpl::~GroupDataProviderImpl()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/CASESession.h:55:18:chip::CASESession::CASESession()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/CASEClientPool.h:41:18:chip::CASEClient* chip::CASEClientPool<N>::Allocate() [with unsigned int N = 2]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/MessageCounterManager.h:45:5:chip::secure_channel::MessageCounterManager::~MessageCounterManager()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/MessageCounterManager.h:45:5:virtual chip::secure_channel::MessageCounterManager::~MessageCounterManager()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/reporting/ReportScheduler.h:191:13:chip::app::reporting::ReportScheduler::~ReportScheduler()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/reporting/ReportScheduler.h:191:13:virtual chip::app::reporting::ReportScheduler::~ReportScheduler()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/reporting/ReportSchedulerImpl.h:66:5:chip::app::reporting::ReportSchedulerImpl::~ReportSchedulerImpl()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/reporting/ReportSchedulerImpl.h:66:5:virtual chip::app::reporting::ReportSchedulerImpl::~ReportSchedulerImpl()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Dnssd.h:43:26:static chip::app::DnssdServer& chip::app::DnssdServer::Instance()	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:471:6:void chip::Server::CheckServerReadyEvent()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:489:6:void chip::Server::RejoinExistingMulticastGroups()	10
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:429:6:void chip::Server::OnPlatformEvent(const chip::DeviceLayer::ChipDeviceEvent&)	5
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:484:6:static void chip::Server::OnPlatformEventWrapper(const chip::DeviceLayer::ChipDeviceEvent*, intptr_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:522:6:void chip::Server::GenerateShutDownEvent()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:527:6:void chip::Server::ScheduleFactoryReset()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/GroupDataProviderImpl.h:32:5:chip::Credentials::GroupDataProviderImpl::GroupDataProviderImpl()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/CHIPMem.h:161:13:void chip::Platform::Delete(T*) [with T = chip::Crypto::P256Keypair]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:193:10:void chip::FabricInfo::Reset()	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/FabricTable.h:74:5:chip::FabricInfo::FabricInfo()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:392:5:chip::Server::Server()	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/ReferenceCountedHandle.h:35:5:chip::ReferenceCountedHandle<Target>::~ReferenceCountedHandle() [with Target = chip::Transport::Session]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/CASEServer.h:43:10:void chip::CASEServer::Shutdown()	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:537:6:void chip::Server::Shutdown()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/CASEServer.h:35:5:chip::CASEServer::~CASEServer()	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/protocols/secure_channel/CASEServer.h:35:5:virtual chip::CASEServer::~CASEServer()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/ScopedBuffer.h:221:5:chip::Platform::ScopedMemoryBufferWithSize<T>::~ScopedMemoryBufferWithSize() [with T = unsigned char]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/ScopedBuffer.h:226:10:void chip::Platform::ScopedMemoryBufferWithSize<T>::Free() [with T = unsigned char]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/PersistentStorageOpCertStore.h:43:13:chip::Credentials::PersistentStorageOpCertStore::~PersistentStorageOpCertStore()	3
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/credentials/PersistentStorageOpCertStore.h:43:13:virtual chip::Credentials::PersistentStorageOpCertStore::~PersistentStorageOpCertStore()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/PersistedCounter.h:149:16:CHIP_ERROR chip::PersistedCounter<T>::PersistNextEpochStart(T) [with T = long long unsigned int]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/PersistedCounter.h:120:16:CHIP_ERROR chip::PersistedCounter<T>::Advance() [with T = long long unsigned int]	6
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:101:12:CHIP_ERROR chip::Server::Init(const chip::ServerInitParams&)	33
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:280:10:void chip::BitMapObjectPool<T, N>::ReleaseObject(T*) [with T = chip::OperationalSessionSetup; unsigned int N = 4]	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/Pool.h:327:17:static chip::Loop chip::BitMapObjectPool<T, N>::ReleaseObject(void*, void*) [with T = chip::OperationalSessionSetup; unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/OperationalSessionSetupPool.h:55:10:void chip::OperationalSessionSetupPool<N>::Release(chip::OperationalSessionSetup*) [with unsigned int N = 4]	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/CommissioningWindowManager.h:42:7:chip::CommissioningWindowManager::~CommissioningWindowManager()	1
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/CommissioningWindowManager.h:42:7:virtual chip::CommissioningWindowManager::~CommissioningWindowManager()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:715:1:cpp)	2
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/app/server/Server.h:311:7:chip::Server::~Server()	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/server/Server.cpp:715:1:cpp)	5

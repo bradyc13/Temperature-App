@@ -1,0 +1,7 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:112:12:ssl_cookie_hmac	56	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:53:6:mbedtls_ssl_cookie_init	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:66:6:mbedtls_ssl_cookie_set_timeout	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:71:6:mbedtls_ssl_cookie_free	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:82:5:mbedtls_ssl_cookie_setup	48	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:137:5:mbedtls_ssl_cookie_write	32	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/mbedtls/library/ssl_cookie.c:182:5:mbedtls_ssl_cookie_check	64	static

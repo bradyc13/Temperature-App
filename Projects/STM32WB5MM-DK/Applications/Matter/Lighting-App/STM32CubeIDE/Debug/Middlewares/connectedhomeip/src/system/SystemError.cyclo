@@ -1,0 +1,6 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:105:6:bool chip::System::FormatPOSIXError(char*, uint16_t, CHIP_ERROR)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:57:23:CHIP_ERROR chip::System::Internal::MapErrorPOSIX(int)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:62:23:CHIP_ERROR chip::System::Internal::MapErrorPOSIX(int, const char*, unsigned int)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:77:25:const char* chip::System::DescribeErrorPOSIX(CHIP_ERROR)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:86:6:void chip::System::RegisterPOSIXErrorFormatter()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemError.cpp:130:23:CHIP_ERROR chip::System::MapErrorZephyr(int)	1

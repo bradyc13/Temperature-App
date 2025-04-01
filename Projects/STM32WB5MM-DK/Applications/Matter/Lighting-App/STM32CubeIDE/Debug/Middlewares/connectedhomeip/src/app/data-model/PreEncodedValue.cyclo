@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/data-model/PreEncodedValue.cpp:26:1:chip::app::DataModel::PreEncodedValue::PreEncodedValue(const chip::ByteSpan&)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/data-model/PreEncodedValue.cpp:28:12:CHIP_ERROR chip::app::DataModel::PreEncodedValue::Encode(chip::TLV::TLVWriter&, chip::TLV::Tag) const	2

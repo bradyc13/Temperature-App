@@ -1,0 +1,9 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:38:10:uint32_t {anonymous}::ComputeHeapBlockChecksum(const internal::PrivateHeapBlockHeader*)	0	static
+../../../../../../../Middlewares/Third_Party/connectedhomeip/src/lib/support/CodeUtils.h:499:13:void chipDie()	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:49:26:internal::PrivateHeapBlockHeader* {anonymous}::NextHeader(internal::PrivateHeapBlockHeader*)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:84:6:void {anonymous}::ValidateHeader(const internal::PrivateHeapBlockHeader*)	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:101:17:void PrivateHeapInit(void*, size_t)	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:135:19:void* PrivateHeapAlloc(void*, size_t)	24	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:209:17:void PrivateHeapFree(void*)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:272:8:void* PrivateHeapRealloc(void*, void*, size_t)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/PrivateHeap.cpp:309:17:void PrivateHeapDump(void*)	24	static

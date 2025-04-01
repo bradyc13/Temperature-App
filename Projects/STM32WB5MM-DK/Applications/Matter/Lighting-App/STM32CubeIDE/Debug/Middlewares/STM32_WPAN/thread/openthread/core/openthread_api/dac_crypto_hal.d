@@ -1,0 +1,2 @@
+Middlewares/STM32_WPAN/thread/openthread/core/openthread_api/dac_crypto_hal.o: \
+ /Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/dac_crypto_hal.c

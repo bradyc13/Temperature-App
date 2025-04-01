@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/ServiceNaming.cpp:31:12:CHIP_ERROR chip::Dnssd::MakeInstanceName(char*, size_t, const chip::PeerId&)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/ServiceNaming.cpp:44:12:CHIP_ERROR chip::Dnssd::ExtractIdFromInstanceName(const char*, chip::PeerId*)	9
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/ServiceNaming.cpp:83:12:CHIP_ERROR chip::Dnssd::MakeHostName(char*, size_t, const chip::ByteSpan&)	3
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/ServiceNaming.cpp:95:12:CHIP_ERROR chip::Dnssd::MakeServiceSubtype(char*, size_t, DiscoveryFilter)	14
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/dnssd/ServiceNaming.cpp:152:12:CHIP_ERROR chip::Dnssd::MakeServiceTypeName(char*, size_t, DiscoveryFilter, DiscoveryType)	8

@@ -1,0 +1,4 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/TextOnlyLogging.cpp:156:14:const char* chip::Logging::GetModuleName(LogModule)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/TextOnlyLogging.cpp:161:6:void chip::Logging::SetLogRedirectCallback(LogRedirectCallback_t)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/TextOnlyLogging.cpp:197:6:void chip::Logging::LogV(uint8_t, uint8_t, const char*, va_list)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/lib/support/logging/TextOnlyLogging.cpp:188:6:)	1

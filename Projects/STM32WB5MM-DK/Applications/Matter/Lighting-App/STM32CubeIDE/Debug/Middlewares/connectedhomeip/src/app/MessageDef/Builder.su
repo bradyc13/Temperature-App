@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.cpp:35:1:chip::app::Builder::Builder()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.cpp:37:6:void chip::app::Builder::Init(chip::TLV::TLVWriter*, chip::TLV::TLVType)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.cpp:43:6:void chip::app::Builder::ResetError()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.cpp:48:6:void chip::app::Builder::ResetError(CHIP_ERROR)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/Builder.cpp:53:6:void chip::app::Builder::EndOfContainer()	8	static

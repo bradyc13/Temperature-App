@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemStats.cpp:63:15:const char* const* chip::System::Stats::GetStrings()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemStats.cpp:68:11:chip::System::Stats::count_t* chip::System::Stats::GetResourcesInUse()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemStats.cpp:73:11:chip::System::Stats::count_t* chip::System::Stats::GetHighWatermarks()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemStats.cpp:78:6:void chip::System::Stats::UpdateSnapshot(Snapshot&)	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/system/SystemStats.cpp:86:6:bool chip::System::Stats::Difference(Snapshot&, Snapshot&, Snapshot&)	20	static

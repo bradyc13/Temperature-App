@@ -1,0 +1,8 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:33:10:otRandomNonCryptoGetUint32	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:55:9:otRandomNonCryptoGetUint8	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:77:10:otRandomNonCryptoGetUint16	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:99:9:otRandomNonCryptoGetUint8InRange	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:123:10:otRandomNonCryptoGetUint16InRange	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:147:10:otRandomNonCryptoGetUint32InRange	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:171:6:otRandomNonCryptoFillBuffer	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/ST/STM32_WPAN/thread/openthread/core/openthread_api/random_noncrypto.c:188:10:otRandomNonCryptoAddJitter	16	static

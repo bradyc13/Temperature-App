@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/SingletonConfigurationManager.cpp:39:24:chip::DeviceLayer::ConfigurationManager& chip::DeviceLayer::ConfigurationMgr()	0	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/SingletonConfigurationManager.cpp:49:6:void chip::DeviceLayer::SetConfigurationMgr(ConfigurationManager*)	0	static

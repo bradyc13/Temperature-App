@@ -1,0 +1,1 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/platform/logging/impl/stdio/Logging.cpp:13:27:void chip::Logging::Platform::LogV(const char*, uint8_t, const char*, va_list)	1

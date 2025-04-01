@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/MessageParser.cpp:23:12:CHIP_ERROR chip::app::MessageParser::Init(chip::TLV::TLVReader&)	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/MessageParser.cpp:29:12:CHIP_ERROR chip::app::MessageParser::ExitContainer()	8	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/MessageParser.cpp:53:12:CHIP_ERROR chip::app::MessageParser::GetInteractionModelRevision(chip::InteractionModelRevision*) const	80	static

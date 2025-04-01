@@ -1,0 +1,5 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventStatusIB.cpp:88:12:CHIP_ERROR chip::app::EventStatusIB::Parser::GetPath(chip::app::EventPathIB::Parser*) const	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventStatusIB.cpp:95:12:CHIP_ERROR chip::app::EventStatusIB::Parser::GetErrorStatus(chip::app::StatusIB::Parser*) const	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventStatusIB.cpp:102:24:chip::app::EventPathIB::Builder& chip::app::EventStatusIB::Builder::CreatePath()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventStatusIB.cpp:111:21:chip::app::StatusIB::Builder& chip::app::EventStatusIB::Builder::CreateErrorStatus()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventStatusIB.cpp:120:12:CHIP_ERROR chip::app::EventStatusIB::Builder::EndOfEventStatusIB()	1

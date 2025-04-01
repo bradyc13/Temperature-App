@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventReportIBs.cpp:72:26:chip::app::EventReportIB::Builder& chip::app::EventReportIBs::Builder::CreateEventReport()	16	static
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/EventReportIBs.cpp:81:12:CHIP_ERROR chip::app::EventReportIBs::Builder::EndOfEventReports()	8	static

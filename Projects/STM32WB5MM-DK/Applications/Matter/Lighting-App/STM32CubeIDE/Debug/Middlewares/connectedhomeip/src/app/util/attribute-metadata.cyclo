@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/attribute-metadata.cpp:21:6:bool emberAfIsStringAttributeType(EmberAfAttributeType)	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/util/attribute-metadata.cpp:26:6:bool emberAfIsLongStringAttributeType(EmberAfAttributeType)	1

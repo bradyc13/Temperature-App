@@ -1,0 +1,2 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/InetError.cpp:56:6:bool chip::Inet::FormatLayerError(char*, uint16_t, CHIP_ERROR)	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/inet/InetError.cpp:37:6:void chip::Inet::RegisterLayerErrorFormatter()	1

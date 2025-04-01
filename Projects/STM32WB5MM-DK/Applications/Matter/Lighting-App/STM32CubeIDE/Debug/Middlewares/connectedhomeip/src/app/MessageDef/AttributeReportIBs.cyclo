@@ -1,0 +1,3 @@
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeReportIBs.cpp:72:30:chip::app::AttributeReportIB::Builder& chip::app::AttributeReportIBs::Builder::CreateAttributeReport()	2
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeReportIBs.cpp:81:12:CHIP_ERROR chip::app::AttributeReportIBs::Builder::EndOfAttributeReportIBs()	1
+/Users/brady/Downloads/STM32CubeExpansion_MATTER_V1.1.0/Middlewares/Third_Party/connectedhomeip/src/app/MessageDef/AttributeReportIBs.cpp:87:12:CHIP_ERROR chip::app::AttributeReportIBs::Builder::EncodeAttributeStatus(const chip::app::ConcreteReadAttributePath&, const chip::app::StatusIB&)	8
